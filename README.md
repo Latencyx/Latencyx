@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/734854033872781424/737124259410739210/IMG_20200721_085242.jpg)
+![image](https://media1.tenor.com/images/d215042afd6853342cdeaa17b59154ab/tenor.gif?itemid=5645546)
 
 
 <!--
