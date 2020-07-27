@@ -1,5 +1,5 @@
 ### ⚡ @martinelli0x
-[image](https://cdn.discordapp.com/attachments/734854033872781424/737124259410739210/IMG_20200721_085242.jpg)
+(https://cdn.discordapp.com/attachments/734854033872781424/737124259410739210/IMG_20200721_085242.jpg)
 
 
 <!--
