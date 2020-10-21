@@ -1,6 +1,3 @@
-        <br />
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin3lli&layout=compact)
-
 <p align="center">
         <p align="center">
             <p align="center"><em>martin3lli#0111</em></p>
@@ -15,6 +12,7 @@
             <a align="center">
                 <img align="center" src="https://img.shields.io/badge/ruby-blueviolet?&style=for-the-badge&logo=ruby&logoColor=white"/>
             </a> &nbsp;   
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin3lli&layout=compact"/>
         </p>
     </p>
 </p>
