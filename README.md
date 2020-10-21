@@ -12,7 +12,7 @@
             <a align="center">
                 <img align="center" src="https://img.shields.io/badge/ruby-blueviolet?&style=for-the-badge&logo=ruby&logoColor=white"/>
             </a> &nbsp;     
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin3lli&layout=compact)
         </p>
     </p>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin3lli&layout=compact)
