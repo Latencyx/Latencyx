@@ -1,6 +1,6 @@
 <p align="center">
         <p align="center">
-            <p align="center"><em>salve meu querido amigo anonemas >:)</em></p>
+            <p align="center"><em>o/</em></p>
         </p>
         <p align="center">
             <a align="center">
