@@ -22,8 +22,8 @@
 
 <!-- ## 💻 Programming -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&hide_border=true&bg_color=ffffff5f&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell,java&title_color=000" align="left"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=11&hide=html" align="left">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin3lli&hide_border=true&bg_color=ffffff5f&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell,java&title_color=000" align="left"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin3lli&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=11&hide=html" align="left">
 
 <div align="center">
 
@@ -41,20 +41,6 @@
 **Interests**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000)
-
-
-
-
-
-
-
-<!--
-![ReactJS](https://img.shields.io/badge/React%20Native-88dff7?&style=flat&logo=react&logoColor=000)
--->
-
-
-
-
 
 
 </div>
